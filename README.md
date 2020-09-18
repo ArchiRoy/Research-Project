@@ -1,2 +1,2 @@
 # Research-Project
-Contains the code for GBM and MMGBM tests 
+Contains the codes and results for GBM, MMGBM and SMMGBM tests along with the reference papers and presentations 
